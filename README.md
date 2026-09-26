@@ -259,10 +259,8 @@ streamlit run app.py
 * Streamlit Deployment
 
 ---
-## **Screenshots**
+## **Author** : Swamy k
 
-
----
 
 
 
