@@ -1,5 +1,9 @@
 # 👨‍💼 Employee Attrition Prediction using Machine Learning
 
+### 🚀 Live Demo : [Employee Attrition System](https://employeeattritionsystem.streamlit.app/)
+
+---
+
 ## 📌 Project Overview
 
 This project is an end-to-end Machine Learning project that predicts whether an employee is likely to **leave the organization or stay** based on employee-related factors.
